@@ -1,0 +1,7 @@
+include LICENSE CHANGES README.md
+include usr
+
+recursive-exclude * __pycache__
+recursive-exclude * *.pyc
+recursive-exclude * *.pyo
+recursive-exclude * *.orig

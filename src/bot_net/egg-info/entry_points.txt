@@ -1,0 +1,3 @@
+[console_scripts]
+bot-net = bot_net:main
+
